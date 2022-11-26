@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "Grey sofa",
+      "src": "https://images.hermanmiller.group/m/1b32216640b8cca2/W-HAY_2530324_100212045_mode_intaglio_f.png?trim=auto&trim-sd=1&blend-mode=darken&blend=ffffff&bg=ffffff&auto=format&w=1000&q=70&h=1000",
+      "price": "2,139,000"
+    },
+    {
+      "id": 1,
+      "title": "ARBOUR TWO SEATER SOFA",
+      "src": "https://images.hermanmiller.group/m/2225583477f392ae/W-HAY_2517726_100199283_nevada_leather_cognac_oak_a.png?trim=auto&trim-sd=1&blend-mode=darken&blend=ffffff&bg=ffffff&auto=format&w=1000&q=70&h=1000",
+      "price": "3,859,000"
+    },
+    {
+      "id": 2,
+      "title": "MAGS SOFT LOW SECTIONAL WITH CHAISE",
+      "src": "https://images.hermanmiller.group/m/544c94bcbc3183d8/W-HAY_2515835_100186339_bonsai_f.png?trim=auto&trim-sd=1&blend-mode=darken&blend=ffffff&bg=ffffff&auto=format&w=1000&q=70&h=1000",
+      "price": "6,557,900"
+    },
+    {
+      "id": 3,
+      "title": "MAGS L-SHAPED SECTIONAL",
+      "src": "https://images.hermanmiller.group/m/7ec9f67b33874b39/W-HAY_2514898_100264896_bumblebee_f.png?trim=auto&trim-sd=1&blend-mode=darken&blend=ffffff&bg=ffffff&auto=format&w=1000&q=70&h=1000",
+      "price": "1,257,900"
+    },
+    {
+      "id": 4,
+      "title": "MAGS LOUNGE TWO SEATER SOFA",
+      "src": "https://images.hermanmiller.group/m/4cc94aa342b59a8e/W-HAY_2536892_100270158_cream_a.png?trim=auto&trim-sd=1&blend-mode=darken&blend=ffffff&bg=ffffff&auto=format&w=1000&q=70&h=1000",
+      "price": "4,539,000"
+    },
+    {
+      "id": 5,
+      "title": "QUILTON OTTOMAN",
+      "src": "https://images.hermanmiller.group/m/d484e1b3592fc838/W-HAY_2542442_100318192_petrol_f.png?trim=auto&trim-sd=1&blend-mode=darken&blend=ffffff&bg=ffffff&auto=format&w=1000&q=70&h=1000",
+      "price": "2,339,000"
+    },
+    {
+      "id": 6,
+      "title": "MAGS LOUNGE CORNER SECTIONAL",
+      "src": "https://images.hermanmiller.group/m/0626f4e827888945/W-HAY_2536895_100270467_grigio_f.png?trim=auto&trim-sd=1&blend-mode=darken&blend=ffffff&bg=ffffff&auto=format&w=1000&q=70&h=1000",
+      "price": "4,389,000"
+    },
+    {
+      "id": 7,
+      "title": "CAN THREE SEATER SOFA",
+      "src": "https://images.hermanmiller.group/m/0f81e30f03a4f044/W-HAY_2518230_100176555_light_grey_natural_black_a.png?trim=auto&trim-sd=1&blend-mode=darken&blend=ffffff&bg=ffffff&auto=format&w=1000&q=70&h=1000",
+      "price": "5,619,000"
+    },
+    {
+      "id": 8,
+      "title": "HACKNEY LOUNGE CORNER SECTIONAL",
+      "src": "https://images.hermanmiller.group/m/f9f486026ef66669/W-HAY_2536584_100269144_petal_a.png?trim=auto&trim-sd=1&blend-mode=darken&blend=ffffff&bg=ffffff&auto=format&w=1000&q=70&h=1000",
+      "price": "1,929,000"
+    },
+    {
+      "id": 9,
+      "title": "EAMES SOFA COMPACT, HERMAN MILLER X HAY",
+      "src": "https://images.hermanmiller.group/m/7c3e73c0a489f5fc/W-HM_ESC_34773.png?trim=auto&trim-sd=1&blend-mode=darken&blend=ffffff&bg=ffffff&auto=format&w=1000&q=70&h=1000",
+      "price": "6,229,000"
+    },
+    {
+      "id": 10,
+      "title": "MAGS SOFT LOW MODULAR SECTIONAL",
+      "src": "https://images.hermanmiller.group/m/5b3759b9f82eff53/W-HAY_2543444_100348055_botanist_a.png?trim=auto&trim-sd=1&blend-mode=darken&blend=ffffff&bg=ffffff&auto=format&w=1000&q=70&h=1000",
+      "price": "3,649,000"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
